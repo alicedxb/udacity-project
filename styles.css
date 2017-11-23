@@ -24,7 +24,11 @@ hr {
     padding: 0; 
 }
 
+
 .card-base {
+  position: absolute;
+  top: 10%;
+  left: 40%;
   background: #ffffff url('https://image.ibb.co/miYrOG/card_background.png');
   width: 262px;
   border-width: 16px;
@@ -62,8 +66,8 @@ hr {
 
 .image-right {
   position: absolute;
-    left: 276px;
-    top: 44px;
+    left: 251px;
+    top: 20px;
   width: 25px;
 }
 
@@ -103,8 +107,8 @@ hr {
 
 .flower {
   position: absolute;
-    left: 282px;
-    top: 262px;
+    left: 258px;
+    top: 240px;
   width: 18px;
 }
 
@@ -119,7 +123,7 @@ hr {
 .alignright-hp {
   position: absolute;
     left: 230px;
-    top: 38px;
+    top: 34px;
   font-size: 20px;
   line-height: 0;
   margin: 0;
@@ -134,14 +138,14 @@ hr {
 
 .image-des1 {
   position: absolute;
-    top: 38px;
+    top: 34px;
     left: 19px;
     width: 25px;
 }
 
 .image-desc2 {
     position: absolute;
-    top: 38px;
+    top: 34px;
     left: 0px;
     width: 25px;
 }
